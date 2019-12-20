@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'sewaindb',
+	'hostname' => 'localhost',
 	'username' => 'oraherox_sewain',
 	'password' => 'sewain12345678',
-	'database' => 'sewain',
+	'database' => 'oraherox_sewain_db',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
